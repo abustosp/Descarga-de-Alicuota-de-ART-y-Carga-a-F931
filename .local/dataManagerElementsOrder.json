@@ -1,0 +1,25 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Descarga ART.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Alicuota&Sequence_78",
+        "CUITMultiple&Flowchart_1",
+        "Ubicacion&Flowchart_1",
+        "MisServicios&Sequence_68"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
