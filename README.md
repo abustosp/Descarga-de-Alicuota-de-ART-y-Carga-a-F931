@@ -1,6 +1,6 @@
-# Descarga_MC_AFIP
+# Descarga-de-Alicuota-de-ART-y-Carga-a-F931 
 
-Bot de descarga de Alícuotas de ART de AFIP
+Bot de descarga de Alícuotas de ART de AFIP y posterior carga al Formulario 931
 
 ## El licenciamiento es con GPL (es decir que no se puede distribuir comercialmente, solamente GRATIS). y si se utiliza este el código, su derivado también debe ser distribuido abierta y gratuitamente. 
 
