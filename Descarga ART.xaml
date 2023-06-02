@@ -456,7 +456,7 @@
                                                   </ui:Click>
                                                   <ui:WaitUiElementAppear FoundElement="{x:Null}" DisplayName="Esperar a que se acepte el CAPTCHA" sap:VirtualizedContainerService.HintSize="450,87" sap2010:WorkflowViewState.IdRef="WaitUiElementAppear_1" WaitActive="True" WaitVisible="True">
                                                     <ui:WaitUiElementAppear.Target>
-                                                      <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="ccf0bd86-778a-48bb-a5ce-3936bb1565c1" Selector="&lt;webctrl aria-role='presentation' tag='IFRAME' /&gt;&lt;webctrl aria-role='presentation' class='recaptcha-checkbox-checkmark' tag='DIV' /&gt;">
+                                                      <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="ccf0bd86-778a-48bb-a5ce-3936bb1565c1" InformativeScreenshot="9aa3b037fb08a0d199b69a6c5e74ab77" Selector="&lt;webctrl aria-role='presentation' tag='IFRAME' /&gt;&lt;webctrl aria-role='presentation' class='recaptcha-checkbox-checkmark' tag='DIV' /&gt;">
                                                         <ui:Target.TimeoutMS>
                                                           <InArgument x:TypeArguments="x:Int32" />
                                                         </ui:Target.TimeoutMS>
